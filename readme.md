@@ -23,7 +23,7 @@ It compares different CNN architectures and transfer learning with **EfficientNe
 
 ---
 
-## 🧠 Models & Results
+## Models & Results
 
 ### Model 1: Basic CNN
 - Architecture: Conv2D → LeakyReLU → MaxPooling → Dense
