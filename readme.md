@@ -74,4 +74,4 @@ Random 20 validation images were visualized:
 - Incorrect predictions shown in **red** ❌
 
 ```markdown
-![Sample Predictions]()
+![Sample Predictions](https://github.com/tohidnoori/smoker-detection-deep-learning/blob/main/output.png)
