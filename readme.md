@@ -49,7 +49,7 @@ It compares different CNN architectures and transfer learning with **EfficientNe
   - F1-score: **0.8962**
   - Precision: **0.8913**
   - Recall: **0.9011**
-- Reduced overfitting ✅
+- Reduced overfitting 🐽
 
 ---
 
@@ -70,8 +70,7 @@ It compares different CNN architectures and transfer learning with **EfficientNe
 ## Plot
 Random 20 validation images were visualized:
 
-- Correct predictions shown in **green** ✅
-- Incorrect predictions shown in **red** ❌
+- Correct predictions shown in **green**
+- Incorrect predictions shown in **red**
 
-```markdown
-![Sample Predictions](https://github.com/tohidnoori/smoker-detection-deep-learning/blob/main/output.png)
+<img src="https://github.com/tohidnoori/smoker-detection-deep-learning/blob/main/output.png" width="1000" height="600">
