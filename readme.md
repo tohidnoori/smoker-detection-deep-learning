@@ -34,7 +34,7 @@ It compares different CNN architectures and transfer learning with **EfficientNe
   - F1-score: **0.8585**
   - Precision: **0.9262**
   - Recall: **0.8000**
-- ⚠️ Overfitted
+- Overfitted ⚠️
 
 ---
 
@@ -49,7 +49,7 @@ It compares different CNN architectures and transfer learning with **EfficientNe
   - F1-score: **0.8962**
   - Precision: **0.8913**
   - Recall: **0.9011**
-- ✅ Reduced overfitting
+- Reduced overfitting ✅
 
 ---
 
@@ -63,15 +63,15 @@ It compares different CNN architectures and transfer learning with **EfficientNe
   - F1-score: **0.9294**
   - Precision: **0.9185**
   - Recall: **0.9407**
-- ⭐ Best performing model
+- Best performing model⭐
 
 ---
 
 ## Plot
 Random 20 validation images were visualized:
 
-- ✅ Correct predictions shown in **green**  
-- ❌ Incorrect predictions shown in **red**
+- Correct predictions shown in **green** ✅
+- Incorrect predictions shown in **red** ❌
 
 ```markdown
 ![Sample Predictions]()
